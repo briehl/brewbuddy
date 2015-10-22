@@ -1,0 +1,20 @@
+Things I want to do. User stories, even.
+
+As a user I...
+* want to log in to see private recipes and brew day plans
+* want to be able to create a recipe
+* want to see that recipe get partially populated as I go (est. water needs, ABV, Plato, ...)
+* want to choose from a list of ingredients
+* want to be able to add new ingredients
+* want my added ingredients to be available elsewhere
+* want to browse other's recipes
+* want to plan a brew day using one or more recipes
+* want my plans to include how much of each thing to buy as a shopping list
+* want my recipes to be public or private or shared with other users
+
+As a developer/admin I...
+* want to use a private login setup
+* want all recipes and ingredients to persist in a database
+* want to use some canned sharing model
+* want to serve as much as possible on the server side using something like Express.js
+* want to view things on the front end using React.js
